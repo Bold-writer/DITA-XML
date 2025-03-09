@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_Insert_A_SIMcard_In_Iphone">
+    <title>How to Insert a SIM card in Iphone</title>
+    <shortdesc> Here you will learn How to Insert a SIM card in Iphone.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_lsn_bxd_x4b">
+            <p>To insert the SIM card, you need a SIM ejector pin first. </p>
+        </prereq>
+        <context>
+            <p>You can change your SIM card, Whenever SIM card needs to be change. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Insert the Ejector pin in small hole, which is at the right side body edgw of the phone. </cmd>
+            </step>
+            <step>
+                <cmd>Press the ejector pin, trap opens,place a SIM card on the tray, and close it. </cmd>
+            </step>
+        </steps>
+        <result id="result_hgp_2xd_x4b">
+            <p>Network symbol shows at the right side top of the screen. </p>
+            <p>You are now ready to use the phone.</p>
+        </result> 
+    </taskbody>
+</task>
